@@ -9,7 +9,7 @@ python -m SimpleHTTPServer
 ```
 Open index.html
 
-[View site here](http://gabefinch.github.io/tech-vocab/)
+[View site here](http://gabefinch.github.io/flash-cards/)
 
 ### Bug Reports:
 ```
